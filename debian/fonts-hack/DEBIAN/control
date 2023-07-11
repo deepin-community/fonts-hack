@@ -1,0 +1,10 @@
+Package: fonts-hack
+Version: 3.003-1
+Architecture: amd64
+Maintainer: chuan-boss <20373767@buaa.edu.cn>
+Installed-Size: 11
+Section: font
+Priority: optional
+Homepage: https://github.com/source-foundry/Hack
+Description: hack
+  Hack is designed to be a workhorse typeface for source code.
